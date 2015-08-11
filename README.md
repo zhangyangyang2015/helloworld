@@ -1,2 +1,6 @@
 # helloworld
 sample
+
+##メンバー
+
+*testmember
